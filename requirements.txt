@@ -1,3 +1,8 @@
-aiogram~=2.12
+
 environs~=8.0.0
+sqlalchemy==1.4.0
+gino
 asyncpg
+aiogram==2.7
+aiohttp==3.6.2
+python-dotenv
